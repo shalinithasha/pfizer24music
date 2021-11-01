@@ -1,5 +1,4 @@
 # Pfizer 24/7 music player
-(https://c4.wallpaperflare.com/wallpaper/188/166/350/anime-music-wallpaper-preview.jpg)
 
 - An Telegram Bot to Play Radio/Music in Channel or Group Voice Chats.
 - A Telegram Bot to Play Audio in Voice Chats With Youtube and Deezer support.
